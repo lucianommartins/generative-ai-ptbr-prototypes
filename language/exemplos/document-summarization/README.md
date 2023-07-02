@@ -1,11 +1,6 @@
-# Generative AI - Language - Document Summarization
+# Generative AI - Linguagem - Sumarização de documentos de documentos
 
-Welcome to the Google Cloud [Generative AI](https://cloud.google.com/ai/generative-ai/)  - Language repository.
+Bem-vindo ao repositórios de exemplos de uso de linguagem com a Google Cloud [Generative AI](https://cloud.google.com/ai/generative-ai/).
 
-## Document Q&A
-The notebooks in this folder show how you can text summarization over multiple large documents so that Vertex AI PaLM API.
-
-## Table of Contents
-- language/examples/document-qa/
-  - [Text Summarization with Large Documents with LangChain](summarization_large_documents_langchain.ipynb)
-  - [Text Summarization with Large Documents (without LangChain)](summarization_large_documents.ipynb)
+## Conteúdo
+- [Sumarização de Texto com Documentos Grandes](summarization_large_documents.ipynb)
